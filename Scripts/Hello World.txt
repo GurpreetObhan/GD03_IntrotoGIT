@@ -4,4 +4,12 @@ public void main()
 	{
 		//comment
 	}
-}	
+}
+
+public class Something2
+{
+public void main()
+	{
+		//comment
+	}
+}
