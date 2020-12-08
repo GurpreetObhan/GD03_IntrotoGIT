@@ -1,0 +1,7 @@
+public class Something
+{
+public void main()
+	{
+		//comment
+	}
+}	
